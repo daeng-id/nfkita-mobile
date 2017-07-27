@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/layout_toolbar" />
+
+    <sttnf.app.nfkita.utils.CustomViewPager
+        android:id="@+id/viewpager_main"
+        android:layout_below="@+id/toolbar"
+        android:layout_above="@+id/bottombar_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <com.roughike.bottombar.BottomBar
+        android:id="@+id/bottombar_main"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#FFFFFF"
+        app:bb_activeTabColor="@color/colorPrimary"
+        app:bb_inActiveTabColor="#434343"
+        android:layout_alignParentBottom="true"
+        app:bb_tabXmlResource="@xml/bottombar_tab"
+        app:bb_behavior="shifting"/>
+
+</RelativeLayout>

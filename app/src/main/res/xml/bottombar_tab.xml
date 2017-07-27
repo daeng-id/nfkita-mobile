@@ -1,0 +1,18 @@
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_menu_home"
+        title="Home" />
+    <tab
+        id="@+id/tab_search"
+        icon="@drawable/ic_menu_search"
+        title="Search" />
+    <tab
+        id="@+id/tab_tools"
+        icon="@drawable/ic_menu_tools"
+        title="Tools" />
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_menu_profile"
+        title="Profile" />
+</tabs>

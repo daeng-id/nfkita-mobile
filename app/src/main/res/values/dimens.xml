@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_additional_height">250dp</dimen>
+    <dimen name="additional_title">30dp</dimen>
+    <dimen name="additional_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_additional_radius">0dp</dimen>
+    <dimen name="additional_cover_height">160dp</dimen>
+    <dimen name="additional_title_padding">10dp</dimen>
+    <dimen name="additional_padding_bottom">5dp</dimen>
+    <dimen name="ic_additional_overflow_width">20dp</dimen>
+    <dimen name="ic_additional_overflow_height">30dp</dimen>
+    <dimen name="ic_additional_overflow_margin_top">10dp</dimen>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "807993425105",
+    "firebase_url": "https://nfkita-924bb.firebaseio.com",
+    "project_id": "nfkita-924bb",
+    "storage_bucket": "nfkita-924bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807993425105:android:3273271f2dfbec98",
+        "android_client_info": {
+          "package_name": "sttnf.app.nfkita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807993425105-da7qkem2djgc1v34cs6ej71ccg9tgj4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfw8jpGbrHNJ5JvQxiN8boIMZKgkXN8oE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
