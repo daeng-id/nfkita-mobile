@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">NFKita</string>
-    <string name="google_maps_key">AIzaSyBmVhAofhf7nxVCCjopd0WAGn1izcZ-u6A</string>
-    <string name="facebook_app_id">457441121290039</string>
+    <string name="google_maps_key">your_googlemaps_key</string>
+    <string name="facebook_app_id">your_facebook_id</string>
 
     <string name="must_login">Anda harus login terlebih dahulu. Silahkan ke tab profile.</string>
     <string name="close">TUTUP</string>
