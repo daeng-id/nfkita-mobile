@@ -18,12 +18,10 @@ public class CacheManager {
     }
 
     public static void save(String key, String value) {
-        Log.d(TAG, "saveCache: " + value);
         getPref().edit().putString(key, value).apply();
     }
 
     public static void save(String key, Boolean value) {
-        Log.d(TAG, "saveCache: " + value);
         getPref().edit().putBoolean(key, value).apply();
     }
 
