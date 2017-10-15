@@ -1,4 +1,8 @@
 # NFKita
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/daeng-id/nfkita-mobile)
+
+
 NFKita app!
 
 Kanal civitas STT Terpadu Nurul Fikri yang menyediakan segala informasi kampus, organisasi, dan artikel menarik. Memiliki beragam fitur layanan yang dapat membantu mahasiswa untuk menyelesaikan masalah dan meningkatkan produktivitas.
